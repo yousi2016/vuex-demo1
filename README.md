@@ -2,23 +2,23 @@
 在github和gitee上创建新库的步骤：<br>
 Administrator@PC-20180723OWWX MINGW64 /d/geekbang<br>
 $ git clone https://github.com/yousi2016/vuex-demo1.git<br>
-Cloning into 'vuex-demo1'...<br><br>
-remote: Enumerating objects: 3, done.
+Cloning into 'vuex-demo1'...<br>
+remote: Enumerating objects: 3, done.<br>
 remote: Counting objects: 100% (3/3), done.<br>
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0<br>
 Unpacking objects: 100% (3/3), done.<br>
 
 Administrator@PC-20180723OWWX MINGW64 /d/geekbang<br>
-$ git status
-fatal: not a git repository (or any of the parent directories): .git
+$ git status<br>
+fatal: not a git repository (or any of the parent directories): .git<br>
 
-Administrator@PC-20180723OWWX MINGW64 /d/geekbang
-$ cd vuex-demo1
+Administrator@PC-20180723OWWX MINGW64 /d/geekbang<br>
+$ cd vuex-demo1<br>
 
-Administrator@PC-20180723OWWX MINGW64 /d/geekbang/vuex-demo1 (master)
-$ git status
-On branch master
-Your branch is up to date with 'origin/master'.
+Administrator@PC-20180723OWWX MINGW64 /d/geekbang/vuex-demo1 (master)<br>
+$ git status<br>
+On branch master<br>
+Your branch is up to date with 'origin/master'.<br>
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -36,7 +36,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 Administrator@PC-20180723OWWX MINGW64 /d/geekbang/vuex-demo1 (master)
-$ git add .
+$ git add .<br>
 warning: LF will be replaced by CRLF in .browserslistrc.
 The file will have its original line endings in your working directory
 warning: LF will be replaced by CRLF in .eslintrc.js.
@@ -61,7 +61,7 @@ warning: LF will be replaced by CRLF in src/main.js.
 The file will have its original line endings in your working directory
 
 Administrator@PC-20180723OWWX MINGW64 /d/geekbang/vuex-demo1 (master)
-$ git commit -m 'first add vuex-demo1 to github'
+$ git commit -m 'first add vuex-demo1 to github'<br>
 [master 8a3355e] first add vuex-demo1 to github
  13 files changed, 11754 insertions(+)
  create mode 100644 .browserslistrc
@@ -79,7 +79,7 @@ $ git commit -m 'first add vuex-demo1 to github'
  create mode 100644 src/main.js
 
 Administrator@PC-20180723OWWX MINGW64 /d/geekbang/vuex-demo1 (master)
-$ git push github master
+$ git push github master<br>
 fatal: 'github' does not appear to be a git repository
 fatal: Could not read from remote repository.
 
