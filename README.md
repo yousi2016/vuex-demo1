@@ -1,14 +1,14 @@
 
-在github和gitee上创建新库的步骤：
-Administrator@PC-20180723OWWX MINGW64 /d/geekbang
-$ git clone https://github.com/yousi2016/vuex-demo1.git
-Cloning into 'vuex-demo1'...
+在github和gitee上创建新库的步骤：<br>
+Administrator@PC-20180723OWWX MINGW64 /d/geekbang<br>
+$ git clone https://github.com/yousi2016/vuex-demo1.git<br>
+Cloning into 'vuex-demo1'...<br><br>
 remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (3/3), done.
+remote: Counting objects: 100% (3/3), done.<br>
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0<br>
+Unpacking objects: 100% (3/3), done.<br>
 
-Administrator@PC-20180723OWWX MINGW64 /d/geekbang
+Administrator@PC-20180723OWWX MINGW64 /d/geekbang<br>
 $ git status
 fatal: not a git repository (or any of the parent directories): .git
 
